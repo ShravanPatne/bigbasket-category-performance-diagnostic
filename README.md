@@ -4,8 +4,7 @@ This capstone creates one deterministic BigBasket-style SQLite dataset, produces
 
 ## Tableau Public
 
-**Live dashboard:** https://public.tableau.com/app/profile/shravan.patne6614/viz/BigBasketCategoryPerformanceDashboard\_17894915053080/Dashboard1
-
+**Live dashboard:** https://public.tableau.com/views/BigBasketCategoryPerformanceDashboard_17894915053080/Dashboard1
 Publish the dashboard from Tableau Public, set it to public, then replace the placeholder above with the exact live view URL.
 
 ## Data story
